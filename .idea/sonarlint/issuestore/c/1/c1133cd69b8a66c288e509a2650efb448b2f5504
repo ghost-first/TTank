@@ -1,0 +1,46 @@
+
+h
+java:S2095:"MUse try-with-resources or close this "FileInputStream" in a "finally" clause.(îØÓßûÿÿÿÿ
+`	java:S1125"FDefine and throw a dedicated exception instead of using a generic one.(¡˜Îÿùÿÿÿÿ
+E
+java:S1128"*Remove this unused import 'java.util.Map'.(¼è½Òþÿÿÿÿ
+œ
+java:S1186"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(Þž¦Ùýÿÿÿÿ
+V	java:S125"<This block of commented-out lines of code should be removed.(Ú½ØÕùÿÿÿÿ
+Q	java:S125("<This block of commented-out lines of code should be removed.(½æ
+E
+java:S62127"/Declare this local variable with "var" instead.(Ã›åÖ
+E
+java:S62129"/Declare this local variable with "var" instead.(Î×”Ç
+J
+java:S6212<"/Declare this local variable with "var" instead.(Êó£Áûÿÿÿÿ
+J
+java:S6212>"/Declare this local variable with "var" instead.(éöâ°üÿÿÿÿ
+D
+java:S6212?"/Declare this local variable with "var" instead.(ËŸ²
+E
+java:S6212C"/Declare this local variable with "var" instead.(‡Îõ°
+E
+java:S6212D"/Declare this local variable with "var" instead.(¹¼¡Û
+E
+java:S6212E"/Declare this local variable with "var" instead.(ÇÉÕ¨
+E
+java:S6212V"/Declare this local variable with "var" instead.(ÚßÞ¡
+E
+java:S6212W"/Declare this local variable with "var" instead.(ÌÙª‡
+<	java:S131\""Add a default case to this switch.(àÐŠ¹ýÿÿÿÿ
+Q	java:S125~"<This block of commented-out lines of code should be removed.(’í¾¿
+E
+java:S5413")Verify that "remove()" is used correctly.(ÞÛ½®ùÿÿÿÿ
+K
+java:S6212Œ"/Declare this local variable with "var" instead.(Õ·¿ˆþÿÿÿÿ
+I
+java:S1135•"2Complete the task associated to this TODO comment.(‰ÕñÏ
+F
+java:S6212—"/Declare this local variable with "var" instead.(–ãž±
+K
+java:S6212˜"/Declare this local variable with "var" instead.(¢ÄˆŠþÿÿÿÿ
+F
+java:S6212 "/Declare this local variable with "var" instead.(–ãž±
+K
+java:S6212¡"/Declare this local variable with "var" instead.(¢ÄˆŠþÿÿÿÿ
